@@ -16,5 +16,5 @@ from pbr import version
 
 __all__ = ['version_info', 'version_string']
 
-version_info = version.VersionInfo('python-monascaclient')
+version_info = version.VersionInfo('monascaclient')
 version_string = version_info.version_string()
